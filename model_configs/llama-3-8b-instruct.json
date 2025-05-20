@@ -1,0 +1,12 @@
+{
+    "policy_model": {
+            "llama-3-8b-instruct": {
+                "path_to_model": "",
+                "path_to_chat_template": "../chat_templates/llama-3.1-instruct.jinja",
+                "stop_tokens": "['<|eot_id|>']",
+                "api_key": "2723hsdhuj323hsuejsijsd237",
+                "port": 8000,
+                "GPU": "0"
+        }
+    }
+}
